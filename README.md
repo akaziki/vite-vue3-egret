@@ -2,6 +2,8 @@
 
 > 该项目为使用vite+vue3集成egret引擎的一个示例，可实现无需打开egret Wing运行server，自动监听egret内容变化，开发egret体验更为流畅
 
+项目地址：[vite+vue3集成egret引擎游戏 (github.com)](https://github.com/akaziki/vite-vue3-egret)
+
 ### 新建egret项目
 
 1. 打开egretlauncher
