@@ -1,0 +1,21 @@
+{
+  "name": "vue-egret",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --mode production",
+    "serve": "vite preview",
+    "p": "egret publish ./egret && npm run build "
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.4",
+    "@vue/compiler-sfc": "^3.0.5",
+    "chokidar": "^3.5.1",
+    "cross-spawn": "^7.0.3",
+    "vite": "^2.0.0-beta.64"
+  }
+}
