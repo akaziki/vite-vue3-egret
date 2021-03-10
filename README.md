@@ -37,6 +37,10 @@
 
 > 执行egret build命令时会默认使用此config，修改里面的buildConfig方法，将打包的outputDir设置为public/game
 
+### 修改vite.config.js
+
+>  Ï添加option:server.watch监听egret目录变化
+
 ### 修改egret/src/Main.ts
 
 loadResource方法的读取资源文件的路径
